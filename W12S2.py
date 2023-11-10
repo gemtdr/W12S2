@@ -39,7 +39,7 @@ def filter_items(inventory):
     elif filterBy.lower() == "price":
 
 
-    elif filterBy.lower == "rating":
+    elif filterBy.lower() == "rating":
 
     
     else:
